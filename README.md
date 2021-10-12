@@ -1,4 +1,5 @@
-> Number-Guessing-Game
+*Console Project
+> Number Guessing Game
 > Language: C#
 > IDE: Visual Studio 2019 
 
@@ -11,3 +12,4 @@ Number Guessing Game
 4. If the player's guess is correct, give the player a single point.
 5. Tally the number of correct and wrong guesses that the player has made.
 6. After every round, display the tally (correct, wrong, and score)
+7. After a cycle the program will ask the user if he wants to continue playing.
