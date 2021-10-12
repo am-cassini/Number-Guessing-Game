@@ -3,6 +3,7 @@
 > IDE: Visual Studio 2019 
 
 --- Instructions ---
+
 Number Guessing Game
 1. The program will generate a random number from 1 to 1000.
 2. The player will be given several chances to guess the number.
