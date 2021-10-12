@@ -1,6 +1,6 @@
 *Console Project
-> Number Guessing Game
-> Language: C#
+> Number Guessing Game | 
+> Language: C# |
 > IDE: Visual Studio 2019 
 
 --- Instructions ---
