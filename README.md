@@ -1,7 +1,7 @@
-*Console Project
-> Number Guessing Game | 
-> Language: C# |
-> IDE: Visual Studio 2019 
+// ITN114 Wireless Internet and Pervasive Computing
+// Number Guessing Game Console Project
+// Language: C#
+// IDE: Visual Studio 2019 
 
 --- Instructions ---
 
